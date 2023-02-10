@@ -1,7 +1,7 @@
 # online-shopping-with-advanced-admin-page
-Updated version
+Updated versions
 
 
-online shopping system with both admin and user layouts.
+system of online shopping with both admin and user layouts.
 
-admin login details  Email=admin@gmail.com and Password=123456789.
+Email=admin@gmail.com and Password=123456789 are admin login details  .
